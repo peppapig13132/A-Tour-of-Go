@@ -2,13 +2,13 @@ package main
 
 import "fmt"
 
+const Pi = 3.14
+
 func main() {
-	i := 42 						// int
-	fmt.Printf("i is of type %T\n", i)
+	const World = "世界"
+	fmt.Println("Hello", World)
+	fmt.Println("Happy", Pi, "Day")
 
-	f := 3.142					// float
-	fmt.Printf("f is of type %T\n", f)
-
-	g := 0.867 + 0.5i		// complex128
-	fmt.Printf("g is of type %T\n", g)
+	const Truth = true
+	fmt.Println("Go rules?", Truth)
 }
