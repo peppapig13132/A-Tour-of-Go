@@ -14,3 +14,5 @@ Download and Install: https://go.dev/doc/install
 go install golang.org/x/website/tour@latest
 ```
 
+## Basics
+- Packages, variables, and functions.
