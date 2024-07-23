@@ -17,3 +17,4 @@ go install golang.org/x/website/tour@latest
 ## Basics
 - Packages, variables, and functions.
 - Flow control statements: for, if, else, switch and defer
+- More types: structs, slices, and maps.
