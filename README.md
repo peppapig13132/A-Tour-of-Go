@@ -1,5 +1,10 @@
 # A Tour of Go
 
+<div align="center">
+
+  ![Go!](https://github.com/peppapig13132/A-Tour-of-Go/raw/main/assets/image/go.png)
+</div>
+
 A Tour of Go: https://go.dev/tour/list
 
 ## Lessons
