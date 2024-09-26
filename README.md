@@ -15,7 +15,7 @@ A Tour of Go: https://go.dev/tour/list
 ### Basics
 - [x] Packages, variables, and functions. (17)
 - [x] Flow control statements: for, if, else, switch and defer (14)
-- [ ] More types: structs, slices, and maps. (27)
+- [x] More types: structs, slices, and maps. (27)
 
 ### Methods and interfaces
 - [ ] Methods and interfaces (26)
