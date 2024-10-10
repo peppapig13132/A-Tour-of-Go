@@ -18,7 +18,7 @@ A Tour of Go: https://go.dev/tour/list
 - [x] More types: structs, slices, and maps. (27)
 
 ### Methods and interfaces
-- [ ] Methods and interfaces (26)
+- [x] Methods and interfaces (26)
 
 ### Generics
 - [ ] Generics (3)
