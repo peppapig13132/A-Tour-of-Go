@@ -21,7 +21,7 @@ A Tour of Go: https://go.dev/tour/list
 - [x] Methods and interfaces (26)
 
 ### Generics
-- [ ] Generics (3)
+- [x] Generics (3)
 
 ### Concurrency
 - [ ] Concurrency (11)
