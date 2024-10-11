@@ -1,11 +1,18 @@
 package main
 
-// List represents a singly-linked list that holds
-// values of any type.
-type List[T any] struct {
-	next *List[T]
-	val  T
+import (
+	"fmt"
+	"time"
+)
+
+func say(s string) {
+	for i := 0; i < 5; i++ {
+		time.Sleep(1 * time.Millisecond)
+		fmt.Println(s)
+	}
 }
 
 func main() {
+	go say("world")
+	say("hello")
 }
